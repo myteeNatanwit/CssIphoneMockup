@@ -1,6 +1,9 @@
 Css Device mockup
 =================
 
+screen shots here
+http://myteenatanwit.github.io/CssIphoneMockup
+
 For testing the app running in different size of devices, we can run it with Ripple emulator. Problem is we cannot run same app in different emulators. Also, it is ... hmm .. buggy.
 
 #Simple

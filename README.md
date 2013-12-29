@@ -18,6 +18,7 @@ The structure is
 3- The iframe that wrap your app. Change the source src to your app and that is it.
 
 #Notes
+
 - you can run all mockups same time, my case, I run Ipad, Iphone, Galaxy in same browser to check my script adjusting the size of the elements and the like.
-- 
+
 - The src is pointing to one of my app, you can see the different looks there.

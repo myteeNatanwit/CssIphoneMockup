@@ -11,9 +11,9 @@ You can see, all my stuff are simple. Few lines of code, straigh forward CSS, Ja
 
 The structure is
 
-1-device wrappup, this is the appearance of the device, plenty of room for improvement, the important figures are width and height. For example, you can make an Iphone4 by changing to 320x480. Ip5 320x580 and so on. Your app must either use Media query -big css- or apply the script to adjust the size -i go for this one for faster performance on Android devices-.
+1- Device wrappup, this is the appearance of the device, plenty of room for improvement, the important figures are width and height. For example, you can make an Iphone4 by changing to 320x480. Ip5 320x580 and so on. Your app must either use Media query -big css- or apply the script to adjust the size -i go for this one for faster performance on Android devices-.
 
-2-Some buttons to reset the app. You can change them to whatever, my case, I dont use them so no code there.
+2- Some buttons to reset the app. You can change them to whatever, my case, I dont use them so no code there.
 
 3- The iframe that wrap your app. Change the source src to your app and that is it.
 
